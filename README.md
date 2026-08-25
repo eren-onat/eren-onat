@@ -1,33 +1,47 @@
-# Hi there, I'm Eren 👋
+# Hi, I'm Eren 👋
 
-I'm an **Applied Mathematics student at Christopher Newport University** interested in using mathematics, computation, and simulation to solve real-world engineering and biomedical problems.
+I'm an **Applied Mathematics student at Christopher Newport University** interested in computational modeling, numerical simulation, and their applications in engineering and biomedical problems.
 
-* 🔭 I’m currently working on **computational and mathematical modeling projects**, with a focus on biological and physical systems
-* 🌱 I’m currently learning more about **numerical methods, scientific computing, data analysis, and physics-based simulation**
-* 🧬 I’m especially interested in applications of mathematics and computation in **biomedical engineering**
-* 💻 I primarily work with **Python, NumPy, SciPy, Pandas, Matplotlib, and Jupyter**
-* ⚙️ I enjoy hands-on problem solving and currently work as a **bicycle service technician**
-* 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ Outside of school, I train and compete in **triathlons**
-* 🎓 My goal is to pursue graduate study in **Biomedical Engineering**
+My academic work focuses on using mathematics and computation to understand physical and biological systems. I'm particularly interested in **biomechanics, medical devices, physiological modeling, rehabilitation engineering, and scientific computing**.
+
+- 🎓 B.S. in Computational & Applied Mathematics — Physics, Dynamics, and Engineering concentration
+- 🔬 Interested in biomedical engineering and computational modeling
+- 💻 Primarily working with Python, NumPy, SciPy, Pandas, Matplotlib, and Jupyter
+- ⚙️ I also enjoy hands-on troubleshooting and currently work as a bicycle service technician
+- 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ Outside of school, I train and compete in triathlons
+- 🎯 Planning to pursue graduate study in Biomedical Engineering
 
 ## Current Interests
 
-* Mathematical Modeling
-* Biomedical Engineering
-* Numerical Methods
-* Scientific Computing
-* Simulation
-* Data Analysis
-* Dynamical Systems
+- Computational and mathematical modeling
+- Biomedical engineering
+- Biomechanics and physiological modeling
+- Numerical methods
+- Scientific computing
+- Simulation of physical systems
+- Data analysis
 
 ## Featured Projects
 
-🧬 **Biomedical Growth Modeling**
-Comparing nonlinear mathematical models of biological growth using parameter estimation, model selection, validation, and forecasting.
+### 🧬 [Biological Growth & Biomass Modeling](https://github.com/eren-onat/Math440/blob/main/Final%20proj/Onat_Eren_FinalProject.ipynb)
+Compared candidate mathematical models of biological growth using parameter estimation, model selection, residual analysis, holdout validation, and forecasting.
 
-🌡️ **Heat Equation & Thermal Modeling**
-Numerical investigation of the heat equation and its application to heat transfer in engineering materials.
+**Python · Mathematical Modeling · Regression · AIC/AICc · Model Validation**
+
+### 🌡️ [Heat Equation & Thermal Modeling](https://github.com/eren-onat/Math440/blob/main/heat_equation_model.ipynb)
+Used numerical methods to investigate the heat equation and model temperature behavior in engineering materials under different assumptions and boundary conditions.
+
+**Python · PDEs · Numerical Methods · Scientific Computing**
+
+### 📊 [Data Analysis & Clustering](https://github.com/eren-onat/Data301/tree/main/proj2)
+Applied data cleaning, feature engineering, dimensionality reduction, and clustering methods to a multivariable dataset and interpreted the resulting groups.
+
+**Python · Pandas · PCA · K-Means · HDBSCAN**
+
+## What I'm Working Toward
+
+I'm interested in graduate work that combines my quantitative background with more hands-on engineering, especially problems involving **biomechanics, medical-device development, rehabilitation, and clinically relevant modeling**.
 
 ---
 
-*Always interested in learning, building, and applying mathematics to problems outside the classroom.*
+*Always interested in learning, building, and using mathematics to better understand real systems.*
