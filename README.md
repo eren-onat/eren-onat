@@ -23,15 +23,15 @@ My academic work focuses on using mathematics and computation to understand phys
 
 ## Featured Projects
 
-### 🧬 [Biological Growth & Biomass Modeling](https://github.com/eren-onat/Math440/blob/main/Final%20proj/Onat_Eren_FinalProject.ipynb)
-Compared candidate mathematical models of biological growth using parameter estimation, model selection, residual analysis, holdout validation, and forecasting.
+### 🧬 [Dungeness Crab Cohort Biomass Modeling](https://github.com/eren-onat/biological-growth-modeling)
+Compared five population-growth models using nonlinear parameter estimation, AIC/AICc model selection, residual analysis, holdout validation, and forecasting.
 
-**Python · Mathematical Modeling · Regression · AIC/AICc · Model Validation**
+**Python · NumPy · Pandas · SciPy · Mathematical Modeling · Model Validation**
 
-### 🌡️ [Heat Equation & Thermal Modeling](https://github.com/eren-onat/Math440/blob/main/heat_equation_model.ipynb)
-Used numerical methods to investigate the heat equation and model temperature behavior in engineering materials under different assumptions and boundary conditions.
+### 🌡️ [Heat Transfer Modeling in Spacecraft Materials](https://github.com/eren-onat/heat-transfer-modeling)
+Used an explicit finite-difference solution of the 1D heat equation to investigate thermal diffusion, material diffusivity, and spacecraft thermal-protection tradeoffs.
 
-**Python · PDEs · Numerical Methods · Scientific Computing**
+**Python · PDEs · Finite Differences · Numerical Simulation · Matplotlib**
 
 ### 📊 [Data Analysis & Clustering](https://github.com/eren-onat/Data301/tree/main/proj2)
 Applied data cleaning, feature engineering, dimensionality reduction, and clustering methods to a multivariable dataset and interpreted the resulting groups.
