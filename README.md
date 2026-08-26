@@ -1,55 +1,35 @@
-# Hi, I'm Eren 👋
+# Hi, I'm Eren
 
-I'm a **Computational & Applied Mathematics student at Christopher Newport University** interested in using mathematical modeling, scientific computing, and simulation to solve engineering and biomedical problems.
+I'm studying **Computational and Applied Mathematics at Christopher Newport University**, with a concentration in Physics, Dynamics, and Engineering.
 
-My strongest interests are at the intersection of **applied mathematics, computation, and biomedical engineering** — especially problems where models and data can help explain how a physical or biological system behaves.
+I like using math and code to understand how physical and biological systems work. I also work as a bicycle service technician, so a lot of what interests me starts with the same question: why is this system behaving the way it is, and how can I make it work better?
 
-## Selected Work
+I'm planning to pursue graduate study in biomedical engineering, with interests in biomechanics, medical devices, physiological modeling, and rehabilitation engineering.
 
-### 🧬 [Nonlinear Biological Growth Modeling](https://github.com/eren-onat/Math440/tree/main/Final%20proj)
-Compared five nonlinear population-growth models using parameter estimation, residual analysis, AIC/AICc model selection, holdout validation, and forecasting.
+## Projects
 
-**Python · NumPy · SciPy · Pandas · Matplotlib · Model Selection · Validation**
+### [Dungeness Crab Biomass Modeling](https://github.com/eren-onat/biological-growth-modeling)
+For my MATH 440 final project, I fit five discrete population models to a Dungeness crab cohort biomass data set. I compared the models with residuals and AICc, checked the leading model on held-out data, and made a short forecast.
 
-### 🌡️ [Heat Equation & Thermal Modeling](https://github.com/eren-onat/Math440/blob/main/heat_equation_model.ipynb)
-Developed a numerical model of heat transfer using the heat equation, connecting differential equations and computational methods to an engineering application.
+**Python, NumPy, Pandas, SciPy, Matplotlib**
 
-**Python · PDEs · Finite Differences · Numerical Simulation · Matplotlib**
+### [Heat Transfer Modeling](https://github.com/eren-onat/heat-transfer-modeling)
+I used the one-dimensional heat equation and an explicit finite-difference method to model heat moving through a material. I then compared different thermal diffusivity values in a simple spacecraft heat-shield example.
 
-### 📊 [Data Analysis & Clustering](https://github.com/eren-onat/Data301/tree/main/proj2)
-Applied data cleaning, feature engineering, dimensionality reduction, and unsupervised learning to a multivariable dataset using PCA, K-means, and HDBSCAN.
+**Python, NumPy, Matplotlib, differential equations, numerical methods**
 
-**Python · Pandas · scikit-learn · PCA · K-Means · HDBSCAN**
+### [Data Analysis and Clustering](https://github.com/eren-onat/Data301/tree/main/proj2)
+I cleaned a multivariable data set, reduced its dimensions with PCA, and compared clustering methods including K-means and HDBSCAN.
 
-## Current Work
+**Python, Pandas, scikit-learn, PCA, K-means, HDBSCAN**
 
-- 🔬 **PHYS 441/541: Modeling & Simulation** — building experience with computational physics and reproducible scientific computing
-- 🧬 **Independent biomedical modeling** — extending my nonlinear-modeling background toward biomedical and physiological applications
-- 📈 Developing a portfolio of projects that connect **mathematics to engineering and biological systems**
+## Skills
 
-## Technical Toolkit
+- **Programming:** Python
+- **Scientific computing:** NumPy, SciPy, Pandas, Matplotlib, scikit-learn
+- **Tools:** Jupyter, Git/GitHub, LaTeX, Conda
+- **Coursework and methods:** mathematical modeling, differential equations, numerical methods, parameter estimation, model validation, and data analysis
 
-**Programming:** Python  
-**Scientific Computing:** NumPy, SciPy, Pandas, Matplotlib, scikit-learn  
-**Tools:** Jupyter, Git/GitHub, LaTeX, Conda  
-**Methods:** Mathematical modeling, numerical methods, parameter estimation, model validation, data analysis, clustering
+## Outside of school
 
-## Research Interests
-
-- Biomedical Engineering
-- Mathematical & Computational Modeling
-- Biomechanics and Physiological Modeling
-- Numerical Methods
-- Scientific Computing
-- Dynamical Systems
-- Simulation & Model Validation
-
-## Beyond Coursework
-
-- ⚙️ I work as a **bicycle service technician**, where I enjoy diagnosing mechanical problems and understanding why systems fail
-- 🏊‍♂️🚴‍♂️🏃‍♂️ I train and compete in **triathlons**
-- 🎓 I plan to pursue graduate study in **Biomedical Engineering**, bringing a strong quantitative and computational background to engineering and biological problems
-
----
-
-*Interested in building models that explain real systems — and using those models to solve useful problems.*
+I train and race triathlons, work on bikes, and have recently started learning more about cars. I enjoy hands-on work just as much as the computational side of a problem.
